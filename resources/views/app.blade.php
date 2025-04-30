@@ -30,7 +30,12 @@
     xdvjxjnmv'
     dxvmn
     xccvjxjcnv
-    xdv,n,d
+    xdv,n,devicesd
+    sys_get_temp_dirfgx
+    cxv
+    xccvjxjcnvxcv
+    datefmt_set_calendar
+    grapheme_stripos
 
 </body>
 </html>
